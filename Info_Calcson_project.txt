@@ -5,4 +5,8 @@ Such as
 # Subtraction
 # Multiplication
 # Division
+# Factorial
+# Square
+# cube
+# Root
 ........and so on..........
